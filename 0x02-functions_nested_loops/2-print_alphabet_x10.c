@@ -5,21 +5,23 @@
  * Return: void
  */
 
-int main(void)
+int main (void)
 {
 	char c;
 	int i = 0;
 
 	while (i < 10)
 	{
-		c = 'a';
+		c - 'a';
 
-		while (c <= 'z')
+		while (c <=
 		{
-			_putchar(c);
+			_putchar(c)
 			c++
 		}
+
 		_putchar('\n');
 		i++;
 	}
 }
+
